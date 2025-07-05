@@ -106,5 +106,5 @@ The workflow is located at `.github/workflows/ci.yml` and runs automatically on 
 
 **Name**: Pranav Sri Vasthav Tenali Gnana  
 **Roll Number**: G24AI1114  
-**Institute**: Indian Institute of Technology Jodhpur
+**Institute**: Indian Institute of Technology Jodhpur.
 ```
